@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs><linearGradient id="coast" x2="0" y2="1"><stop stop-color="#77b5c4"/><stop offset=".55" stop-color="#efc68c"/><stop offset="1" stop-color="#e27e68"/></linearGradient></defs>
+  <rect width="600" height="800" fill="url(#coast)"/>
+  <circle cx="450" cy="210" r="78" fill="#ffe9ad"/>
+  <path d="M0 445Q100 405 200 445t200 0 200 0v355H0Z" fill="#438b9d"/>
+  <path d="M0 520q75-48 150 0t150 0 150 0 150 0v280H0Z" fill="#286c85"/>
+  <path d="M0 635q80-35 160 0t160 0 160 0 120 0v165H0Z" fill="#20546e"/>
+  <path d="M80 450l100-195 115 195Z" fill="#556b59"/>
+  <path d="M110 395l70-140 85 140Z" fill="#71826a"/>
+  <path d="M320 580l140 0-38 48H350Z" fill="#f4e0b8"/>
+  <path d="M390 575V460l68 115Z" fill="#f5eee0"/>
+  <path d="M390 575V470l-62 105Z" fill="#e2a876"/>
+  <path d="M370 635q25 15 50 0m-70 30q35 18 70 0" fill="none" stroke="#c5e8dc" stroke-width="6" stroke-linecap="round"/>
+</svg>

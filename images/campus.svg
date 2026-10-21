@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs><linearGradient id="day" x2="0" y2="1"><stop stop-color="#88b5d3"/><stop offset=".62" stop-color="#f4d4a4"/><stop offset="1" stop-color="#e58f6e"/></linearGradient></defs>
+  <rect width="600" height="800" fill="url(#day)"/>
+  <circle cx="468" cy="180" r="66" fill="#fff0bd"/>
+  <path d="M0 490Q140 430 285 495t315-10v315H0Z" fill="#668a76"/>
+  <path d="M115 450h370v270H115Z" fill="#e8d3ad"/>
+  <path d="M80 465l220-150 220 150Z" fill="#855d65"/>
+  <path d="M254 385h92v-97h-92z" fill="#d5b578"/>
+  <path d="M255 720V570a45 45 0 0 1 90 0v150" fill="#8b6665"/>
+  <g fill="#718dad"><path d="M155 500h55v68h-55z"/><path d="M390 500h55v68h-55z"/><path d="M155 605h55v68h-55z"/><path d="M390 605h55v68h-55z"/></g>
+  <path d="M0 720h600" stroke="#4d705e" stroke-width="20"/>
+  <g fill="#f8efdc"><circle cx="80" cy="200" r="5"/><circle cx="235" cy="155" r="4"/><circle cx="360" cy="235" r="4"/></g>
+</svg>
